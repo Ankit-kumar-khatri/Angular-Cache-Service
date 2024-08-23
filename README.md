@@ -1,4 +1,4 @@
-# CachingSample developed by Ankit Khatri
+# CachingSample developed by Ankit Khatri with complete CI CD cycle configuration.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
 
